@@ -30,6 +30,7 @@ def main():
     df_top_words_select =  df_top_words[df_top_words['topic_name'] == sel_topic]
     st.title('Définition :')
     st.write(df_topic_select['def'].to_string(index = False))
+    st.dataframe(df_content_select)
 
     st.title('Mots les plus fréquents')
     fig2 = px.bar(df_top_words_select, x='freq', y='word', text = 'freq', orientation='h')
