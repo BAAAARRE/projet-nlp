@@ -1,0 +1,301 @@
+word,freq,topic_number,topic_name
+animal,208,0,Consommation Viande
+viande,179,0,Consommation Viande
+manger,113,0,Consommation Viande
+consommation,81,0,Consommation Viande
+arrêter,80,0,Consommation Viande
+élevage,79,0,Consommation Viande
+interdire,58,0,Consommation Viande
+santé,51,0,Consommation Viande
+réduire,46,0,Consommation Viande
+abattoir,46,0,Consommation Viande
+abattage,38,0,Consommation Viande
+protéine,37,0,Consommation Viande
+alimentation,36,0,Consommation Viande
+poisson,35,0,Consommation Viande
+consommer,28,0,Consommation Viande
+végétal,27,0,Consommation Viande
+intensif,26,0,Consommation Viande
+humain,25,0,Consommation Viande
+industriel,24,0,Consommation Viande
+respecter,23,0,Consommation Viande
+condition,23,0,Consommation Viande
+consommateur,23,0,Consommation Viande
+local,22,0,Consommation Viande
+mieux,20,0,Consommation Viande
+privilégier,20,0,Consommation Viande
+mode,20,0,Consommation Viande
+planète,19,0,Consommation Viande
+diminuer,19,0,Consommation Viande
+informer,18,0,Consommation Viande
+nourrir,18,0,Consommation Viande
+bio,157,1,Agriculture biologique
+pesticide,105,1,Agriculture biologique
+agriculture,101,1,Agriculture biologique
+agriculteur,90,1,Agriculture biologique
+arrêter,89,1,Agriculture biologique
+interdire,62,1,Agriculture biologique
+français,51,1,Agriculture biologique
+animal,46,1,Agriculture biologique
+local,41,1,Agriculture biologique
+produire,41,1,Agriculture biologique
+chimique,41,1,Agriculture biologique
+production,39,1,Agriculture biologique
+agricole,38,1,Agriculture biologique
+aider,38,1,Agriculture biologique
+france,37,1,Agriculture biologique
+favoriser,36,1,Agriculture biologique
+pays,34,1,Agriculture biologique
+producteur,33,1,Agriculture biologique
+santé,32,1,Agriculture biologique
+culture,31,1,Agriculture biologique
+importation,29,1,Agriculture biologique
+intensif,29,1,Agriculture biologique
+qualité,29,1,Agriculture biologique
+taxer,29,1,Agriculture biologique
+terre,28,1,Agriculture biologique
+importer,28,1,Agriculture biologique
+européen,26,1,Agriculture biologique
+respecter,24,1,Agriculture biologique
+subvention,24,1,Agriculture biologique
+privilégier,23,1,Agriculture biologique
+sucre,98,2,Produits transformés
+additif,93,2,Produits transformés
+interdire,73,2,Produits transformés
+aliment,71,2,Produits transformés
+transformer,60,2,Produits transformés
+industriel,52,2,Produits transformés
+santé,48,2,Produits transformés
+supprimer,47,2,Produits transformés
+alimentaire,46,2,Produits transformés
+ingrédient,45,2,Produits transformés
+indiquer,41,2,Produits transformés
+arrêter,40,2,Produits transformés
+pesticide,40,2,Produits transformés
+sel,40,2,Produits transformés
+huile,40,2,Produits transformés
+contenir,39,2,Produits transformés
+palme,36,2,Produits transformés
+mettre,35,2,Produits transformés
+nocif,30,2,Produits transformés
+origine,29,2,Produits transformés
+qualité,28,2,Produits transformés
+bio,27,2,Produits transformés
+clairement,27,2,Produits transformés
+composition,26,2,Produits transformés
+colorant,26,2,Produits transformés
+nutriscore,26,2,Produits transformés
+consommateur,25,2,Produits transformés
+gras,25,2,Produits transformés
+provenance,25,2,Produits transformés
+chimique,25,2,Produits transformés
+jardin,70,3,Cultiver soi-même
+potager,53,3,Cultiver soi-même
+ville,37,3,Cultiver soi-même
+créer,32,3,Cultiver soi-même
+favoriser,31,3,Cultiver soi-même
+partager,31,3,Cultiver soi-même
+développer,30,3,Cultiver soi-même
+légume,30,3,Cultiver soi-même
+bio,25,3,Cultiver soi-même
+cultiver,25,3,Cultiver soi-même
+petit,23,3,Cultiver soi-même
+espace,23,3,Cultiver soi-même
+fruit,19,3,Cultiver soi-même
+terre,19,3,Cultiver soi-même
+arbre,17,3,Cultiver soi-même
+local,16,3,Cultiver soi-même
+cantine,16,3,Cultiver soi-même
+enfant,15,3,Cultiver soi-même
+culture,14,3,Cultiver soi-même
+permaculture,14,3,Cultiver soi-même
+mettre,14,3,Cultiver soi-même
+urbain,14,3,Cultiver soi-même
+école,13,3,Cultiver soi-même
+agricole,13,3,Cultiver soi-même
+commune,13,3,Cultiver soi-même
+fruitier,13,3,Cultiver soi-même
+manger,12,3,Cultiver soi-même
+utiliser,12,3,Cultiver soi-même
+donner,12,3,Cultiver soi-même
+propre,12,3,Cultiver soi-même
+manger,276,4,Habitude de consommation alimentaire
+légume,178,4,Habitude de consommation alimentaire
+cuisiner,165,4,Habitude de consommation alimentaire
+fruit,137,4,Habitude de consommation alimentaire
+saison,123,4,Habitude de consommation alimentaire
+viande,93,4,Habitude de consommation alimentaire
+plat,87,4,Habitude de consommation alimentaire
+acheter,80,4,Habitude de consommation alimentaire
+local,78,4,Habitude de consommation alimentaire
+apprendre,75,4,Habitude de consommation alimentaire
+frais,72,4,Habitude de consommation alimentaire
+consommer,71,4,Habitude de consommation alimentaire
+transformer,56,4,Habitude de consommation alimentaire
+éviter,54,4,Habitude de consommation alimentaire
+temps,49,4,Habitude de consommation alimentaire
+sucre,48,4,Habitude de consommation alimentaire
+bio,43,4,Habitude de consommation alimentaire
+proposer,43,4,Habitude de consommation alimentaire
+quantité,42,4,Habitude de consommation alimentaire
+préparer,41,4,Habitude de consommation alimentaire
+aliment,40,4,Habitude de consommation alimentaire
+arrêter,39,4,Habitude de consommation alimentaire
+réapprendre,39,4,Habitude de consommation alimentaire
+sain,38,4,Habitude de consommation alimentaire
+poisson,37,4,Habitude de consommation alimentaire
+industriel,34,4,Habitude de consommation alimentaire
+simple,33,4,Habitude de consommation alimentaire
+privilégier,32,4,Habitude de consommation alimentaire
+réduire,32,4,Habitude de consommation alimentaire
+repas,32,4,Habitude de consommation alimentaire
+gaspillage,45,5,Gaspillage alimentaire
+alimentaire,44,5,Gaspillage alimentaire
+date,33,5,Gaspillage alimentaire
+jeter,32,5,Gaspillage alimentaire
+consommateur,30,5,Gaspillage alimentaire
+éviter,30,5,Gaspillage alimentaire
+arrêter,25,5,Gaspillage alimentaire
+prix,20,5,Gaspillage alimentaire
+donner,19,5,Gaspillage alimentaire
+mieux,18,5,Gaspillage alimentaire
+mettre,18,5,Gaspillage alimentaire
+limite,18,5,Gaspillage alimentaire
+vendre,16,5,Gaspillage alimentaire
+réduire,15,5,Gaspillage alimentaire
+invendu,15,5,Gaspillage alimentaire
+proposer,14,5,Gaspillage alimentaire
+qualité,14,5,Gaspillage alimentaire
+consommation,14,5,Gaspillage alimentaire
+acheter,13,5,Gaspillage alimentaire
+consommer,13,5,Gaspillage alimentaire
+légume,13,5,Gaspillage alimentaire
+coût,13,5,Gaspillage alimentaire
+choix,12,5,Gaspillage alimentaire
+supermarché,11,5,Gaspillage alimentaire
+association,11,5,Gaspillage alimentaire
+production,10,5,Gaspillage alimentaire
+créer,10,5,Gaspillage alimentaire
+aliment,10,5,Gaspillage alimentaire
+péremption,10,5,Gaspillage alimentaire
+nourriture,10,5,Gaspillage alimentaire
+emballage,128,6,Emballage alimentaire
+vrac,78,6,Emballage alimentaire
+plastique,77,6,Emballage alimentaire
+arrêter,36,6,Emballage alimentaire
+proposer,32,6,Emballage alimentaire
+supprimer,30,6,Emballage alimentaire
+verre,29,6,Emballage alimentaire
+bouteille,26,6,Emballage alimentaire
+bio,24,6,Emballage alimentaire
+interdire,24,6,Emballage alimentaire
+légume,23,6,Emballage alimentaire
+suremballage,22,6,Emballage alimentaire
+acheter,22,6,Emballage alimentaire
+déchet,21,6,Emballage alimentaire
+fruit,20,6,Emballage alimentaire
+limiter,20,6,Emballage alimentaire
+consigne,20,6,Emballage alimentaire
+vente,19,6,Emballage alimentaire
+supermarché,18,6,Emballage alimentaire
+achat,18,6,Emballage alimentaire
+privilégier,17,6,Emballage alimentaire
+grand,17,6,Emballage alimentaire
+vendre,17,6,Emballage alimentaire
+réduire,17,6,Emballage alimentaire
+réutilisable,17,6,Emballage alimentaire
+contenant,17,6,Emballage alimentaire
+développer,15,6,Emballage alimentaire
+mettre,15,6,Emballage alimentaire
+consigner,15,6,Emballage alimentaire
+sac,15,6,Emballage alimentaire
+local,488,7,Circuit court
+bio,295,7,Circuit court
+producteur,261,7,Circuit court
+prix,208,7,Circuit court
+circuit,184,7,Circuit court
+saison,181,7,Circuit court
+légume,178,7,Circuit court
+privilégier,162,7,Circuit court
+fruit,159,7,Circuit court
+manger,137,7,Circuit court
+acheter,130,7,Circuit court
+court,118,7,Circuit court
+agriculteur,117,7,Circuit court
+favoriser,114,7,Circuit court
+grand,114,7,Circuit court
+proposer,111,7,Circuit court
+petit,82,7,Circuit court
+français,80,7,Circuit court
+vendre,77,7,Circuit court
+vente,65,7,Circuit court
+consommateur,65,7,Circuit court
+courts,65,7,Circuit court
+surface,59,7,Circuit court
+agriculture,59,7,Circuit court
+qualité,59,7,Circuit court
+supermarché,59,7,Circuit court
+frais,56,7,Circuit court
+permettre,55,7,Circuit court
+proximité,54,7,Circuit court
+accessible,54,7,Circuit court
+enfant,169,8,Alimentation des enfants
+école,157,8,Alimentation des enfants
+manger,134,8,Alimentation des enfants
+jeune,124,8,Alimentation des enfants
+cuisine,114,8,Alimentation des enfants
+cantine,108,8,Alimentation des enfants
+alimentation,103,8,Alimentation des enfants
+éduquer,101,8,Alimentation des enfants
+apprendre,94,8,Alimentation des enfants
+proposer,90,8,Alimentation des enfants
+scolaire,83,8,Alimentation des enfants
+cours,79,8,Alimentation des enfants
+alimentaire,77,8,Alimentation des enfants
+âge,76,8,Alimentation des enfants
+cuisiner,56,8,Alimentation des enfants
+sain,55,8,Alimentation des enfants
+donner,54,8,Alimentation des enfants
+repas,53,8,Alimentation des enfants
+nutrition,52,8,Alimentation des enfants
+équilibré,51,8,Alimentation des enfants
+local,48,8,Alimentation des enfants
+bio,45,8,Alimentation des enfants
+santé,44,8,Alimentation des enfants
+éducation,42,8,Alimentation des enfants
+sensibiliser,41,8,Alimentation des enfants
+végétarien,40,8,Alimentation des enfants
+primaire,36,8,Alimentation des enfants
+atelier,35,8,Alimentation des enfants
+mieux,34,8,Alimentation des enfants
+parent,34,8,Alimentation des enfants
+tva,95,9,Rémunération des agriculteurs
+bio,53,9,Rémunération des agriculteurs
+prix,48,9,Rémunération des agriculteurs
+baisser,48,9,Rémunération des agriculteurs
+fruit,37,9,Rémunération des agriculteurs
+alimentaire,36,9,Rémunération des agriculteurs
+augmenter,35,9,Rémunération des agriculteurs
+aliment,30,9,Rémunération des agriculteurs
+légume,30,9,Rémunération des agriculteurs
+supprimer,29,9,Rémunération des agriculteurs
+taxe,29,9,Rémunération des agriculteurs
+accessible,26,9,Rémunération des agriculteurs
+transformer,25,9,Rémunération des agriculteurs
+rendre,24,9,Rémunération des agriculteurs
+nécessité,24,9,Rémunération des agriculteurs
+taxer,23,9,Rémunération des agriculteurs
+qualité,19,9,Rémunération des agriculteurs
+sain,18,9,Rémunération des agriculteurs
+santé,17,9,Rémunération des agriculteurs
+alimentation,16,9,Rémunération des agriculteurs
+réduire,13,9,Rémunération des agriculteurs
+base,13,9,Rémunération des agriculteurs
+local,11,9,Rémunération des agriculteurs
+fonction,11,9,Rémunération des agriculteurs
+emballage,10,9,Rémunération des agriculteurs
+issu,10,9,Rémunération des agriculteurs
+circuit,10,9,Rémunération des agriculteurs
+impact,9,9,Rémunération des agriculteurs
+favoriser,9,9,Rémunération des agriculteurs
+agriculture,9,9,Rémunération des agriculteurs
