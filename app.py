@@ -29,7 +29,7 @@ def main():
     df_content_select =  df_content[df_content['topic_name'] == sel_topic]
     df_top_words_select =  df_top_words[df_top_words['topic_name'] == sel_topic]
     st.title('Définition :')
-    st.write(df_topic_select['def'].to_string(index = False))
+    st.write(list(df_topic_select['def'])[0])
 
     st.title('Mots les plus fréquents')
     fig2 = px.bar(df_top_words_select, x='freq', y='word', text = 'freq', orientation='h')
@@ -44,8 +44,11 @@ def main():
     st.write('\n')
     st.image('stylecloud.png')
 
-    for i in df_content_select['proposition']:
-    	st.write(i)
+    st.write('\n')
+    my_expander = st.beta_expander('Exemple de proposition')
+    with my_expander:
+        for i in df_content_select["proposition"]:
+            st.write(i)
 
 
 
