@@ -2,7 +2,7 @@ dominant_topic,topic_name,nb_sents,def
 0,Consommation Viande,585,"Regroupe l'ensemble des propostitions traitant de la consommation de la viande ou de sa production ( alternatives à la viande, élevage, condition animale, etc)."
 1,Agriculture biologique,618,"Regroupe l'ensemble des propostitions traitant de l'agriculture biologique, de son impact sanitaire et ecologique."
 2,Nourriture industrielle,631,"Regroupe l'ensemble des propostitions traitant des produits transformés et de leur composition ( plats préparés, les additfs, nutriscore, sucre, etc )."
-3,Cultiver soi-même,277,regroupe les proposition citoyenne visant à developper une sensibilité des cultures agricoles locales et des potagers.
+3,Cultiver soi-même,277,Regroupe les proposition citoyenne visant à developper une sensibilité des cultures agricoles locales et des potagers.
 4,Habitude de consommation alimentaire,761,"On retrouve ici l'ensemble des sujets portant sur les bonnes pratiques alimentaire (consommer local, de saison, dans les bonnes quantités, etc)."
 5,Gaspillage alimentaire,253,"Regroupe l'ensemble des propositions traitants des denrées périssables, de leur usages et de leur redistribution."
 6,Emballage alimentaire,332,"Regroupe les propositions autours des emballages, du plastique et du recyclage."
