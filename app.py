@@ -55,7 +55,7 @@ def main():
 def wrd_cld(dataframe, max):
     texte = dataframe.clean.str.cat(sep=' ')
     stylecloud.gen_stylecloud(text = texte,
-                          icon_name='fas fa-amazon-pay',
+                          icon_name='fas fa-apple-alt',
                           #palette='colorbrewer.diverging.Spectral_11',
                           background_color='white',
                           gradient='horizontal',
