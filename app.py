@@ -10,7 +10,7 @@ def main():
     st.set_page_config(
 	layout="centered",  # Can be "centered" or "wide". In the future also "dashboard", etc.
 	initial_sidebar_state="collapsed",  # Can be "auto", "expanded", "collapsed"
-	page_title='Text Summarize',  # String or None. Strings get appended with "• Streamlit". 
+	page_title='Projet NLP',  # String or None. Strings get appended with "• Streamlit". 
 	page_icon=None,  # String, anything supported by st.image, or None.
     )
 
