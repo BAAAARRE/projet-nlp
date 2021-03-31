@@ -3,4 +3,4 @@ pandas
 plotly_express
 stylecloud
 plotly.graph_objects
-makeMappingArray
+matplotlib.colors
