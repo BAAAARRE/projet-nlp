@@ -60,7 +60,7 @@ def main():
             )])
         annote_graph(mds, "Agir individuellement", 0, 0.5)
         annote_graph(mds, "Agir collectivement", 1, 0.6)
-        annote_graph(mds, "Autour de la nourriture", 0.5, 1)
+        annote_graph(mds, "Environnement", 0.5, 1)
         annote_graph(mds, "Nourriture", 0.5, 0)
         mds.update_layout(height=900, width=900, xaxis_range=[-0.36,0.35], yaxis_range=[-0.35,0.35])
         st.write(mds)
