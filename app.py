@@ -89,14 +89,6 @@ def main():
         fig2.update_layout( width=870, height=870)
         st.write(fig2)
 
-# Nuage de mots
-        st.write('\n')
-        st.title('Nuage de mots')
-        max_cld = st.number_input('Nombre de mots dans le nuage', format="%i", value=100)
-        wrd_cld(df_content_select, max_cld)
-        st.write('\n')
-        st.image('stylecloud.png')
-
 # Propositions
         st.write('\n')
         my_expander = st.beta_expander('Exemple de proposition')
