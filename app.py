@@ -103,15 +103,6 @@ def main():
 
 
 ### Functions ###
-def wrd_cld(dataframe, max):
-    texte = dataframe.clean.str.cat(sep=' ')
-    stylecloud.gen_stylecloud(text = texte,
-                          icon_name='fas fa-apple-alt',
-                          #palette='colorbrewer.diverging.Spectral_11',
-                          background_color='white',
-                          gradient='horizontal',
-                          max_words = max
-                         ) 
 
 def annote_graph(figu, text, x, y):
         figu.add_annotation(text=text,
