@@ -42,7 +42,6 @@ def main():
 
 # MDS
         st.write('\n')
-        st.title('Graphique')
         mds = go.Figure(data=[go.Scatter(
         x= df_graph['x'],
         y= df_graph['y'],
@@ -53,7 +52,7 @@ def main():
             color= score,
             size=df_graph['Freq']*3,
             colorbar=dict(
-                title="Score"
+                title="% d'accord"
             ),
                 colorscale="Bluered"
             )
